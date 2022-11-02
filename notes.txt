@@ -1,0 +1,8 @@
+way to create a java project :
+press: ctrl + shift + p
+
+search java create project 
+
+select no build
+select folder you want to save it in
+type the file name without .java
